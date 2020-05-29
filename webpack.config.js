@@ -5,7 +5,7 @@ module.exports = {
     entry: './src/index.js',
     output: {
         path: path.join(__dirname, '/dist'),
-        filename: 'api_hub_ui_bundle.js'
+        filename: 'min_react_app_bundle.js'
     },
     module: {
         rules: [
